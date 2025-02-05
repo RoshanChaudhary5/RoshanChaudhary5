@@ -32,6 +32,7 @@
 <br>
 
 <div align="left">
-  <img width="253" alt="Screenshot 2025-02-04 at 22 33 16" src="https://github.com/user-attachments/assets/be86e005-e439-4b05-8cf1-92d8b65f8b1f" />
+<img width="253" alt="Screenshot 2025-02-04 at 22 33 16" src="https://github.com/user-attachments/assets/3250338b-098a-4064-ab2c-16ce49a02e7a" />
+
 
 
