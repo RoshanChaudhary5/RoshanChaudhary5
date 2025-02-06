@@ -1,38 +1,29 @@
-<h2 align="left">Hi 👋! My name is Roshan Chaudhary and
-  I'm a BCA student,
-  from Nepal🇳🇵.</h2>
-<!-- --->
+# Hi there, I'm Roshan Chaudhary 👋
 
-<br>
-<br>
+## 👨‍💻 About Me
+I'm a biginner software developer with a keen interest in open source, cloud computing, and AI. I love exploring new technologies and building innovative projects.
 
+- 🌱 I’m currently learning advanced machine learning techniques.
+- 👯 I’m looking to collaborate on open-source AI projects.
+- 💬 Ask me about cloud infrastructure, Python, and data science.
+- 📫 How to reach me: [roshanchy943@example.com](mailto:roshan.chaudhary@example.com)
+- ⚡ Fun fact: I am a huge fan of Mr.Bean.
 
+## 🚀 Skills
+- **Languages:** Python, JavaScript, C++, Java, Html, CSS
+- **Frameworks:** Django, React
+- **Tools & Platforms:** Docker, Kubernetes, AWS, GCP
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Other:** Git, Linux
 
+## 📈 GitHub Stats
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanChaudhary5&show_icons=true&theme=radical)
 
-###
+## 🌟 Top Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanChaudhary5&repo=awesome-project&theme=radical)](https://github.com/RoshanChaudhary5/awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanChaudhary5&repo=another-cool-project&theme=radical)](https://github.com/RoshanChaudhary5/another-cool-project)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
- 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+## 📫 Connect with Me
+<img width="253" alt="Screenshot 2025-02-04 at 22 33 16" src="https://github.com/user-attachments/assets/bb136240-061e-48b0-ab54-a7ec14c0c9ef" />
 
-</div>
-
-###
-</br>
-<br>
-
-<div align="left">
-<img width="253" alt="Screenshot 2025-02-04 at 22 33 16" src="https://github.com/user-attachments/assets/3250338b-098a-4064-ab2c-16ce49a02e7a" />
-
-
-
+Thanks for stopping by! Have a great day! 😄
