@@ -1,7 +1,7 @@
 # Hi there, I'm Roshan Chaudhary 👋
 
 ## 👨‍💻 About Me
-I'm a biginner software developer with a keen interest in open source, cloud computing, and AI. I love exploring new technologies and building innovative projects.
+I'm a beginner software developer with a keen interest in open source, cloud computing, and AI. I love exploring new technologies and building innovative projects.
 
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on open-source AI projects.
