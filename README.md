@@ -12,8 +12,8 @@ I'm a beginner software developer with a keen interest in open source, cloud com
 ## 🚀 Skills
 - **Languages:** Python, JavaScript, C++, Java, Html, CSS
 - **Frameworks:** Django, React
-- **Tools & Platforms:** Docker, Kubernetes, AWS, GCP
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Docker, AWS, GCP
+- **Databases:** MySQL, MongoDB
 - **Other:** Git, Linux
 
 ## 📈 GitHub Stats
