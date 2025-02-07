@@ -6,7 +6,6 @@ I'm a beginner software developer with a keen interest in open source, cloud com
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 💬 Ask me about cloud infrastructure, Python, and data science.
-- 📫 How to reach me: [roshanchy943@example.com](mailto:roshan.chaudhary@example.com)
 - ⚡ Fun fact: I am a huge fan of Mr.Bean.
 
 ## 🚀 Skills
