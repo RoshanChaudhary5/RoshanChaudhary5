@@ -1,7 +1,7 @@
 # Hi there, I'm Roshan Chaudhary 👋
 
 ## 👨‍💻 About Me
-I'm a beginner software developer with a keen interest in open source, cloud computing, and AI. I love exploring new technologies and building innovative projects.
+Hey! I'm Roshan, a recent Ambikeshwari Campus graduate who's incredibly excited about software development and UX design. with a background in computer science and Business Studies, I'm well equipped with a technical skillset and an eagerness to experiment!
 
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on open-source AI projects.
