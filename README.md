@@ -1,7 +1,7 @@
 # Hi there, I'm Roshan Chaudhary 👋
 
 ## 👨‍💻 About Me
-Hey! I'm Roshan, a recent Ambikeshwari Campus graduate who's incredibly excited about software development and UX design. with a background in computer science and Business Studies, I'm well equipped with a technical skillset and an eagerness to experiment!
+Hey! I'm Roshan, a recent Ambikeshwari Campus graduate who's incredibly excited about software development and UI/UX design. with a background in computer science and Business Studies, I'm well equipped with a technical skillset and an eagerness to experiment!
 
 - 🌱 I’m currently learning C++.
 - ⚡ Fun fact: I am a huge fan of Mr.Bean.
